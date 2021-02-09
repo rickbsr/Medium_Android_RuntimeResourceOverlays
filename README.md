@@ -1,2 +1,2 @@
 # Medium_Android_RuntimeResourceOverlays
-淺談「Runtime Resource Overlay」
+Medium：淺談「Runtime Resource Overlay」
